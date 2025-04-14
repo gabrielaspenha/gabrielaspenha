@@ -14,8 +14,8 @@
   <img align="center" alt="Gabi-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
 </div>
 
-<div>
+##
 
-![Snake animation](https://github.com/gabrielaspenha/gabrielaspenha/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/gabrielaspenha/gabrielaspenha/blob/output/github-contribution-grid-snake.svg)
   
-</div>
+
