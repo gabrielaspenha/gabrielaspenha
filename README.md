@@ -16,6 +16,6 @@
 
 <div>
 
-![Snake animation](https://github.com/gabrielaspenha/blog/output/github-contribuition-grid-snake.svg)
+![Snake animation](https://github.com/rafaballerini/gabrielaspenha/blog/output/github-contribuition-grid-snake.svg)
   
 </div>
