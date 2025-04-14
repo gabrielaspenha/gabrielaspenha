@@ -5,7 +5,7 @@
 
 #
 
-<img align="right" alt="" height="190px" src="./src/study.gif">
+<img align="right" alt="" height="190px" src="/study.gif">
 
 <h3 align="left">Conecte-se comigo!</h3>
 
