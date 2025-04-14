@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Gabriela Salomão 👋
 
 <div>
-  <a href="https://github.com/gabrielaspenha">
+  <a href="https://github.com/gabrielaspenha"></a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielaspenha&show_icons=true&theme=dracula">  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielaspenha&layout=compact&langs_count=16&theme=dracula">
 </div>
