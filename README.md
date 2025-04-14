@@ -25,8 +25,8 @@
 
 <div style="text-align: center;" align="center">
   <a href="https://github.com/gabrielaspenha"></a>
-  <img height="156em" src="https://github-readme-stats.vercel.app/api?username=gabrielaspenha&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&hide=issues&bg_color=000&title_color=dd6386&text_color=FFF&border_radius=3&border_color=dd6386&icon_color=dd6386&theme=jolly" alt="GitHub stats"">  
-  <img height="156em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielaspenha&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=dd6386&bg_color=000&text_color=dd6386&border_radius=3&border_color=dd6386&count_private=true" alt="Most Used Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=gabrielaspenha&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=dd6386&text_color=FFF&border_radius=3&border_color=dd6386&icon_color=dd6386&theme=jolly" alt="GitHub stats"">  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielaspenha&line_height=10&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=dd6386&bg_color=000&text_color=dd6386&border_radius=3&border_color=dd6386&count_private=true" alt="Most Used Languages">
 </div>
 
 #
