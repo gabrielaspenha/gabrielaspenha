@@ -1,0 +1,4 @@
+git checkout --orphan output
+git rm -rf .
+git commit --allow-empty -m "Initial output commit"
+git push origin output
