@@ -1,7 +1,7 @@
 ## Olá! Bem-vindos 👋
 
 
-<p align="center">Sou graduanda em Engenharia de Software com foco em desenvolvimento de software. Animada, independente e metódica, sou capaz de lidar com situações de alta pressão e alcançar metas, além disso, sempre busquei estudar e aprender por conta própria, o que me permitiu adquirir conhecimentos valiosos. </p>
+<p align="center">Sou graduanda em Engenharia de Software com foco em desenvolvimento de web. Animada, independente e metódica, sou capaz de lidar com situações de alta pressão e alcançar metas, além disso, sempre busquei estudar e aprender por conta própria, o que me permitiu adquirir conhecimentos valiosos. </p>
 
 #
 
