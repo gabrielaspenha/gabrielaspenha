@@ -1,13 +1,13 @@
-## Olá! Bem-vindos 👋
+## Hello! Welcome 👋
 
 
-<p align="center">Sou graduanda em Engenharia de Software, com foco em desenvolvimento de software e design de interfaces. Entusiasta da leitura e de jogos competitivos, cultivo hobbies que complementam minha criatividade, comunicação e pensamento crítico. Animada, independente e metódica, sou capaz de lidar com situações de alta pressão e alcançar os objetivos. Além disso, sempre busquei estudar e aprender por conta própria, o que me permitiu adquirir conhecimentos valiosos.</p>
+<p align="center">I’m an undergraduate Software Engineering student with a focus on software development and interface design. An avid reader and competitive gaming enthusiast, I pursue hobbies that complement my creativity, communication, and critical thinking skills. Energetic, independent, and methodical, I thrive under pressure and consistently achieve my goals. Additionally, I’ve always been eager to study and learn on my own, which has allowed me to gain valuable knowledge.</p>
 
-<p align="center">Aqui, você encontra todo o conhecimento que adquiri ao longo dos meus estudos. :)</p>
+<p align="center">Here, you’ll find all the insights and skills I’ve acquired throughout my studies. :)</p>
 
 #
 
-<h3 align="left">Conecte-se comigo!</h3>
+<h3 align="left">Connect with me!</h3>
 
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:gabrielasalomao.js@gmail.com)
