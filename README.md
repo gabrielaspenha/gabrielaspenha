@@ -1,7 +1,7 @@
-## Hello! Welcome 👋
+## Hi, I'm Gabriela 👋
 
 
-<p align="center">I’m an undergraduate Software Engineering student with a focus on software development and interface design. An avid reader and competitive gaming enthusiast, I pursue hobbies that complement my creativity, communication, and critical thinking skills. Energetic, independent, and methodical, I thrive under pressure and consistently achieve my goals. Additionally, I’ve always been eager to study and learn on my own, which has allowed me to gain valuable knowledge.</p>
+<p align="center">I'm a Software Engineering student who enjoys solving problems through code. I'm passionate about learning new technologies and building creative projects. When I'm not programming, I'm probably gaming or spending time with my pets. ♡🐾</p>
 
 <p align="center">Here, you’ll find all the insights and skills I’ve acquired throughout my studies. :)</p>
 
