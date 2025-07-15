@@ -5,7 +5,6 @@
 
 <p align="center">Here, you’ll find all the insights and skills I’ve acquired throughout my studies. :)</p>
 
-#
 
 <p align="center">
   <img src="https://i.pinimg.com/736x/a0/dd/c7/a0ddc778234db3eeca217ae4e0781cdc.jpg" alt="cat">
