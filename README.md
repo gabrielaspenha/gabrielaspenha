@@ -20,13 +20,12 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=dd6386&color:FFF)](https://www.instagram.com/its.mahria/)
 
 <h3 align="left">My Stack :)</h3>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Gabi-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Gabi-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg">
-  <img align="center" alt="Gabi-HMTL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg">
-  <img align="center" alt="Gabi-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
-  <img align="center" alt="Gabi-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
-</div>
+
+![JavaScript](https://img.shields.io/badge/JavaScript-dd6386.svg?style=for-the-badge&logo=JavaScript&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-dd6386.svg?style=for-the-badge&logo=CSS&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-dd6386.svg?style=for-the-badge&logo=HTML5&logoColor=white)
+![Python](https://img.shields.io/badge/Python-dd6386.svg?style=for-the-badge&logo=Python&logoColor=white)
+
 
 #
 
